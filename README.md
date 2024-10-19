@@ -1,8 +1,7 @@
 Customer Segmentation Using K-Means Clustering
 
 Overview:
-
-    Customer segmentation is a crucial part of modern marketing strategies. It helps businesses understand their customers better,
+   Customer segmentation is a crucial part of modern marketing strategies. It helps businesses understand their customers better,
 personalize marketing campaigns, and increase customer satisfaction. In this project, we implement K-Means Clustering to group customers 
 based on their behavior and spending patterns, providing valuable insights into customer segments for targeted marketing.
 
@@ -25,9 +24,10 @@ Table of Contents:
 8.Conclusion
 
 1. Project Overview
-In this project, we use the K-Means Clustering algorithm to group customers into different segments based on their purchasing behavior. By analyzing customer data, businesses can target marketing strategies more effectively, improve customer retention, and provide personalized product recommendations.
+    
+     In this project, we use the K-Means Clustering algorithm to group customers into different segments based on their purchasing behavior. By analyzing customer data, businesses can target marketing strategies more effectively, improve customer retention, and provide personalized product recommendations.
 
-2. Dataset
+3. Dataset
 The dataset used in this project contains the following columns:
 
 CustomerID: Unique ID assigned to each customer.
@@ -46,6 +46,7 @@ To run this project, you need the following libraries installed:
   Matplotlib
   Seaborn
   Scikit-learn
+  
 Install the necessary libraries using:
 
 bash
@@ -104,8 +105,7 @@ Cluster 3: Medium-income, medium-spending customers.
 These insights help businesses develop personalized marketing strategies to better serve each customer group.
 
 8. Conclusion:
-    
-           This project demonstrates how K-Means Clustering can be used for customer segmentation, providing valuable insights for targeted marketing.
+      This project demonstrates how K-Means Clustering can be used for customer segmentation, providing valuable insights for targeted marketing.
    By identifying different customer segments, businesses can optimize their marketing efforts, improve customer satisfaction, and increase overall profitability.
 
 Feel free to customize the README based on the specific dataset you're using and the unique aspects of your project.
